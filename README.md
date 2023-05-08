@@ -28,7 +28,7 @@ For further information on python version, and documentation visit [python.org](
 Knowledge in python3, how to use a command line interpreter, a computer with Ubuntu 14.04, python3 and pep8 style corrector.
 
 ## Repo Contents :clipboard:
-This repository contains the following files:
+This repository would contain the following files:
 
 |   **File**   |   **Description**   |
 | -------------- | --------------------- |
