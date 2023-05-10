@@ -95,4 +95,4 @@ To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
 * Frederick Aleoke_Malachi - @genialquamedia
-* Sofiyyah Abdulsalam
+* Saddiq Usman Mukhtar
