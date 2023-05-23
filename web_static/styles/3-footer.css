@@ -1,0 +1,16 @@
+.foot_end {
+    display: flex;
+    margin-top: 610px;
+    align-content: center;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+
+}
+
+.main .foot_end .foot_text {
+    display: flex;
+    align-content: center;
+    padding-left: 650px;
+    margin-top: 8px;
+}

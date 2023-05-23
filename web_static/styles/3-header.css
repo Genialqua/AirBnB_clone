@@ -1,0 +1,17 @@
+.main .head_start {
+    display: flex;
+    float: left;
+    color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    padding-left: 20px;
+}
+
+.main .head_start #logo {
+    background-image: url("../images/ALX-logo.png");
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 100px;
+    margin-top: 8px;
+}
